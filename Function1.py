@@ -2,7 +2,7 @@
 # 리턴을 하지 않는 함수
 def setValue(newValue):
     #지역변수
-    c = newValue
+    x = newValue
     print("지역변수:", x)
 
 #호출
